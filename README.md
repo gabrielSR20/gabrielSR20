@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**gabrielSR20/gabrielSR20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **gabrielSR20/gabrielSR20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
 - 💻 A curious student learning programming in a self-taugh way.
